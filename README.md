@@ -1,6 +1,6 @@
 # My-web-resume
-<strong>自己的网页版简历:</strong></br></br>
-利用jQuery、jQuery UI、Bootstrap、isotope插件、Font Awesome进行开发的响应式网页。<br/>
+<strong>自己的网页版简历:</strong></br>
+利用jQuery、jQuery UI、Bootstrap、isotope插件、Font Awesome进行开发的响应式网页。<br/></br>
 <strong>下面是详细的页面展示</strong></br></br>
 		<strong>1、刚进入画面：</strong>(包括动态展示、鼠标提示)</br></br>
             ![image](https://github.com/xiaola66/My-web-resume/blob/master/img/first.png)</br></br></br>
