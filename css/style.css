@@ -423,7 +423,7 @@ span.year{color: #F9BF3B; float: right;}
 	position: relative;
 	width: 140px;
 	height: 140px;
-	border-radius: 70px;
+	border-radius: 10%;
 	float: none;
 	overflow: hidden;
 	background-color: #fff;
